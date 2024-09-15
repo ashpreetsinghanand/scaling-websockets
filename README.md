@@ -26,17 +26,12 @@ Ensure you have the following installed:
     git clone https://github.com/ashpreetsinghanand/scaling-websockets.git
     ```
 
-2. **Navigate to the Project Directory**:
-    ```bash
-    cd scaling-websockets
-    ```
-
-3. **Install Dependencies**:
+2. **Install Dependencies**:
     ```bash
     npm install
     ```
 
-4. **Start the WebSocket Server**:
+3. **Start the WebSocket Server**:
     ```bash
     cd src
     node index.js
